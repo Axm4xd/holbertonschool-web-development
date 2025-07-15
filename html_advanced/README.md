@@ -81,4 +81,3 @@ project-folder/
 
 * HTML5
 * (Planlaşdırılan: CSS3, JavaScript)
-
